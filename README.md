@@ -25,7 +25,9 @@ Python · APIs · n8n · Supabase · GitHub · OpenAI · MCP
 
 - [Help Mídias](https://github.com/helpmidias-ia)
 - [Radar Tech News](https://github.com/radartech-news)
-- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — protótipo de busca em documento fictício, com indicação da fonte e testes automáticos; integração com IA em desenvolvimento.
+- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — busca com fonte, interface local e avaliação de 7 perguntas fictícias; geração por IA opcional, ainda sem avaliação de qualidade.
+- [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — demonstração de proposta, aprovação explícita e ferramenta local, sem serviços externos.
+- [Laboratório de busca documental](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparação de dois métodos lexicais em documentos fictícios; 4/6 e 6/6 no conjunto didático.
 
 ## Onde me encontrar
 
