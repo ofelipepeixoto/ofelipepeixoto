@@ -27,6 +27,8 @@ Python · APIs · n8n · Supabase · GitHub · OpenAI · MCP
 - [Radar Tech News](https://github.com/radartech-news)
 - [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — protótipo de busca em documento fictício, com indicação da fonte e testes automáticos; integração com IA em desenvolvimento.
 
-## Contato
+## Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/ofelipepeixoto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofelipepeixoto/)
+[![GitHub](https://img.shields.io/badge/GitHub-ofelipepeixoto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofelipepeixoto)
+[![Radar Disruptivo](https://img.shields.io/badge/Site-Radar%20Disruptivo-176B45?style=for-the-badge)](https://radardisruptivo.com.br/)
