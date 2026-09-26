@@ -28,6 +28,8 @@ Python · APIs · n8n · Supabase · GitHub · OpenAI · MCP
 - [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — busca com fonte, interface local e avaliação de 7 perguntas fictícias; geração por IA opcional, ainda sem avaliação de qualidade.
 - [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — demonstração de proposta, aprovação explícita e ferramenta local, sem serviços externos.
 - [Laboratório de busca documental](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparação de dois métodos lexicais em documentos fictícios; 4/6 e 6/6 no conjunto didático.
+- [Revisão de fontes](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) — skill autoral para rastrear evidências, declarar incertezas e validar a estrutura de relatórios.
+- [Avaliação de recuperação jurídica](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) — análise de erros em contrato fictício, com perguntas de desenvolvimento e reserva separadas.
 
 ## Onde me encontrar
 
