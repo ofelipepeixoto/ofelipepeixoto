@@ -9,10 +9,6 @@
 <p align="center">
   Desenvolvo produtos digitais e aplicações de IA com agentes, automações e integração de ferramentas.
 </p>
-# Carlos Felipe
-
-Desenvolvo produtos digitais e aplicações de inteligência artificial para transformar processos de negócio em soluções úteis, mensuráveis e operáveis.
-
 ## Áreas de atuação
 
 - Agentes de IA, automação e integração de ferramentas.
