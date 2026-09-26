@@ -17,6 +17,7 @@ Python · APIs · n8n · Supabase · GitHub · OpenAI · MCP
 
 - [Help Mídias](https://github.com/helpmidias-ia)
 - [Radar Tech News](https://github.com/radartech-news)
+- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — protótipo de busca em documento fictício, com indicação da fonte e testes automáticos; integração com IA em desenvolvimento.
 
 ## Contato
 
