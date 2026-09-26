@@ -1,16 +1,23 @@
-## Hi there 👋
+# Carlos Felipe
 
-<!--
-**ofelipepeixoto/ofelipepeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvo produtos digitais e aplicações de inteligência artificial para transformar processos de negócio em soluções úteis, mensuráveis e operáveis.
 
-Here are some ideas to get you started:
+## Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentes de IA, automação e integração de ferramentas.
+- Aplicações com documentos, busca e respostas apoiadas em fontes (RAG).
+- Fluxos com revisão e aprovação humana.
+- Avaliação de qualidade, tratamento de falhas e acompanhamento de custos.
+
+## Tecnologias e ferramentas
+
+Python · APIs · n8n · Supabase · GitHub · OpenAI · MCP
+
+## Projetos e iniciativas
+
+- [Help Mídias](https://github.com/helpmidias-ia)
+- [Radar Tech News](https://github.com/radartech-news)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/ofelipepeixoto/)
