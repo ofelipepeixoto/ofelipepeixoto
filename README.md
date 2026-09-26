@@ -9,6 +9,7 @@
 <p align="center">
   Desenvolvo produtos digitais e aplicações de IA com agentes, automações e integração de ferramentas.
 </p>
+
 ## Áreas de atuação
 
 - Agentes de IA, automação e integração de ferramentas.
