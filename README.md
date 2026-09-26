@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/main/banner.png"
+       alt="Banner de Carlos Felipe — engenharia de IA"
+       width="100%">
+</p>
+
+<h1 align="center">Carlos Felipe</h1>
+<p align="center"><strong>Sênior IA Engineer | Agentic AI & Generative AI</strong></p>
+<p align="center">
+  Desenvolvo produtos digitais e aplicações de IA com agentes, automações e integração de ferramentas.
+</p>
 # Carlos Felipe
 
 Desenvolvo produtos digitais e aplicações de inteligência artificial para transformar processos de negócio em soluções úteis, mensuráveis e operáveis.
