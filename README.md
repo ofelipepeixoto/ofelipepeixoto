@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Carlos Felipe</h1>
-<p align="center"><strong>Junior IA Engineer | Agentic AI & Generative AI</strong></p>
+<p align="center"><strong>Staff AI Engineer | Agentic AI & Generative AI</strong></p>
 <p align="center">
   Desenvolvo produtos digitais e aplicações de IA com agentes, automações e integração de ferramentas.
 </p>
