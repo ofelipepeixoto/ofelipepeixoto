@@ -16,7 +16,7 @@
 | Projeto | Problema e contribuição | Estágio e demonstração |
 | --- | --- | --- |
 | [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | Projeto prioritário: cálculos determinísticos de risco DeFi, console de consultores e portal privado de diagnósticos com revisão humana. | Em desenvolvimento ativo; testes locais com dados fictícios. [Instruções para testar](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/README.md). Demo visual pendente. |
-| Camaleão Infra Portal | Projeto prioritário da Agência Camaleão: portal de infraestrutura de IA, do diagnóstico guiado à implantação e operação. | Em desenvolvimento. [Repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal) — código acessível para consulta. Demo pública pendente. |
+| [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Projeto prioritário da Agência Camaleão: portal de infraestrutura de IA, do diagnóstico guiado à implantação e operação. | Em desenvolvimento. [Repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal) — código acessível para consulta. Demo pública pendente. |
 | [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Ingestão de PDF, revisão por página e busca com referência ao original. | Laboratório local. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
 | [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Jornada guiada para organizar evidências e avaliar o próximo experimento de uma oportunidade. | Aplicação experimental. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
 | [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Prévia de importação, triagem e análise de premissas para revisão humana. | MVP local em modo sombra, sem lances. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). |
@@ -103,7 +103,7 @@ Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo
 
 ### Produtos e iniciativas do ecossistema
 
-- Camaleão Infra Portal — projeto prioritário em desenvolvimento da [Agência Camaleão](https://camaleaoweb3.com.br/); [repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal), código público e demo pública pendente.
+- [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) — projeto prioritário em desenvolvimento da [Agência Camaleão](https://camaleaoweb3.com.br/); [repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal), código público e demo pública pendente.
 - [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — projeto prioritário em desenvolvimento ativo: console local de consultores e entrega privada de diagnósticos revisados; dados fictícios e integrações de produção pendentes.
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
 - [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — triagem de oportunidades e organização de dossiês em modo sombra, com revisão humana e sem execução de lances.
