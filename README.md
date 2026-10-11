@@ -5,10 +5,43 @@
 </p>
 
 <h1 align="center">Carlos Felipe</h1>
+<p align="center"><strong>Português</strong> · <a href="README_EN.md">English</a></p>
 <p align="center"><strong>Founder & AI Product Builder | Agents, Automation & Evidence-Based Systems</strong></p>
 <p align="center">
-  Desenvolvo produtos digitais e aplicações de IA com agentes, automações e integração de ferramentas.
+  Transformo problemas de negócio em produtos digitais com agentes, automações, evidências rastreáveis e revisão humana.
 </p>
+
+## Projetos em destaque
+
+| Projeto | Problema e contribuição | Estágio e demonstração |
+| --- | --- | --- |
+| [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Ingestão de PDF, revisão por página e busca com referência ao original. | Laboratório local. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
+| [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Jornada guiada para organizar evidências e avaliar o próximo experimento de uma oportunidade. | Aplicação experimental. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
+| [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Prévia de importação, triagem e análise de premissas para revisão humana. | MVP local em modo sombra, sem lances. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). |
+
+<details>
+<summary>Ver as interfaces reais com dados fictícios</summary>
+
+### Assistente Documental
+![Busca com evidência no PDF fictício](https://raw.githubusercontent.com/ofelipepeixoto/assistente-documental-ia/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/demo.png)
+
+### Radar OaaS
+![Diagnóstico experimental do exemplo sintético](https://raw.githubusercontent.com/ofelipepeixoto/radar-oaas/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/demo.png)
+
+### Hermes Leilão RJ
+![Premissas financeiras do imóvel fictício em modo sombra](https://raw.githubusercontent.com/ofelipepeixoto/hermes-leilao-rj/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/demo.png)
+
+</details>
+
+## Resultados e aprendizados
+
+| Evidência reproduzida | Resultado observado | Limite da conclusão |
+| --- | --- | --- |
+| PDF digital sintético de três páginas | 7/7 casos de busca; texto sem revisão permanece fora dos resultados. | Não mede OCR, documentos reais ou qualidade jurídica. |
+| Radar OaaS — testes unitários/IA | 132 testes aprovados em seis arquivos. | Não comprova Auth/RLS real, uso por clientes ou retorno financeiro. |
+| Hermes — domínio, importação e regressões selecionadas | 33 testes aprovados. | Não substitui suíte completa, homologação ou aprovação de investimento. |
+
+Reprodução em 11/10/2026 UTC; comandos, revisões de código e limites estão nos estudos de caso. Contagens de testes são evidências de comportamento no escopo executado, não métricas de produtividade ou adoção.
 
 ## Áreas de atuação
 
@@ -63,6 +96,17 @@ Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
 - [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — triagem de oportunidades e organização de dossiês em modo sombra, com revisão humana e sem execução de lances.
 - [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
+
+## Conteúdo e colaboração
+
+Conecto análise editorial e desenvolvimento de produtos no [Radar Disruptivo](https://radardisruptivo.com.br/):
+
+- [Agentes persistentes e governança](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) — identidade, permissões, custos e responsabilidade humana.
+- [MCP: segurança e governança](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol) — contexto editorial para contratos e limites de ferramentas.
+
+Esses artigos discutem o contexto do setor; não certificam nem validam as implementações dos meus projetos.
+
+Para colaborar, consulte `CONTRIBUTING.md` nos três projetos em destaque: exemplos fictícios, propostas pequenas, critérios de aceite e verificações reproduzíveis. Ferramentas de IA apoiam o desenvolvimento; decisões de produto, revisão e limites permanecem explícitos.
 
 ## Onde me encontrar
 
