@@ -12,10 +12,12 @@
 
 ## Áreas de atuação
 
-- Agentes de IA, automação e integração de ferramentas.
-- Aplicações com documentos, busca e respostas apoiadas em fontes (RAG).
-- Fluxos com revisão e aprovação humana.
-- Avaliação de qualidade, tratamento de falhas e acompanhamento de custos.
+- Engenharia de agentes de IA e automações com revisão humana.
+- Integração de ferramentas, APIs e contratos MCP com controles no servidor.
+- Processamento de documentos, busca e respostas apoiadas em fontes (RAG).
+- Rastreabilidade de evidências, avaliações reproduzíveis e tratamento de falhas.
+- Experimentação de modelos, políticas de orçamento e roteamento de tarefas.
+- Desenvolvimento de produtos digitais para negócios, conteúdo e análise de oportunidades.
 
 ## Tecnologias e ferramentas
 
@@ -40,20 +42,43 @@
 
 ## Projetos e iniciativas
 
-- [Help Mídias](https://github.com/helpmidias-ia)
-- [Radar Tech News](https://github.com/radartech-news)
-- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — busca com fonte, interface local e avaliação de 7 perguntas fictícias; geração por IA opcional, ainda sem avaliação de qualidade.
-- [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — demonstração de proposta, aprovação explícita e ferramenta local, sem serviços externos.
-- [Laboratório de busca documental](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparação de dois métodos lexicais em documentos fictícios; 4/6 e 6/6 no conjunto didático.
-- [Revisão de fontes](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) — skill autoral para rastrear evidências, declarar incertezas e validar a estrutura de relatórios.
-- [Avaliação de recuperação jurídica](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) — análise de erros em contrato fictício, com perguntas de desenvolvimento e reserva separadas.
+Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo incluem produtos em desenvolvimento, bibliotecas experimentais e laboratórios; seus READMEs registram o que foi validado e os limites atuais.
+
+### Integrações, evidências e modelos
+
+- [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) — laboratório de integrações governadas, ferramentas restritas e revisão humana; serviços externos ainda não homologados.
+- [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) — biblioteca experimental para contratos de evidência, recibos e proveniência.
+- [Radar Model Router](https://github.com/ofelipepeixoto/radar-model-router) — experimentos locais de roteamento de tarefas e orçamento; sem chamadas a modelos.
+
+### Documentos e avaliação
+
+- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — ingestão local de PDFs, revisão por página e busca com fontes.
+- [Avaliação de recuperação jurídica](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) — avaliação de busca documental com contratos fictícios.
+- [Laboratório de busca documental](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparação de métodos de recuperação em conjuntos didáticos.
+- [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — demonstração local de proposta, aprovação explícita e execução restrita.
+- [Revisão de fontes](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) — skill autoral para rastrear evidências e declarar incertezas.
+
+### Produtos e iniciativas do ecossistema
+
+- [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
+- [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — triagem de oportunidades e organização de dossiês em modo sombra, com revisão humana e sem execução de lances.
+- [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
 
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofelipepeixoto/)
 [![GitHub](https://img.shields.io/badge/GitHub-ofelipepeixoto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofelipepeixoto)
 [![Radar Disruptivo](https://img.shields.io/badge/Site-Radar%20Disruptivo-176B45?style=for-the-badge)](https://radardisruptivo.com.br/)
+[![Agência Camaleão](https://img.shields.io/badge/Site-Agência%20Camaleão-071007?style=for-the-badge&labelColor=176B45)](https://camaleaoweb3.com.br/)
 
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/stats.svg" alt="Estatísticas públicas do GitHub de Carlos Felipe" width="49%">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/top-langs.svg" alt="Linguagens dos repositórios públicos de Carlos Felipe" width="49%">
+</p>
+
+Atualizadas diariamente pelo GitHub Actions. As linguagens refletem a distribuição de código nos repositórios públicos, não nível de domínio ou horas de trabalho. As contribuições abaixo complementam a evolução da atividade.
 
 ## Minhas contribuições
 
