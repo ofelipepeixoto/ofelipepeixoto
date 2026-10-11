@@ -42,7 +42,7 @@ Após validar o fluxo em navegador, gravar 30–60 segundos com dados fictícios
 
 O Camaleão Infra Portal é destacado ao lado do Capital Web3 Advisor em português e inglês. Seu repositório foi confirmado como público em 11/10/2026. Visitantes podem consultar o código; isso não equivale a implantação ou concessão de licença open source. Para priorizar os dois projetos principais nos seis pins, substitua `radar-evidence-kit` por `camaleao-infra-portal` na seleção acima; o Evidence Kit permanece listado no README.
 
-Demo pública pendente. Preparar futuramente imagem e vídeo de 30–60 segundos com dados fictícios, mostrando entrada → diagnóstico → revisão → resultado, conforme o que estiver implementado e validado. Revisar o material para divulgação antes de publicá-lo; não copiar arquivos internos, dados de clientes ou credenciais para o perfil. Adicionar o link somente quando houver material público acessível.
+Demonstração online: https://infra.camaleaoweb3.com.br/ — requer login com ChatGPT. Em 11/10/2026, a requisição HTTPS sem sessão respondeu HTTP 401 com a tela oficial de autenticação. O fluxo interno autenticado não foi validado nesta atualização. Vídeo público continua pendente. Preparar futuramente imagem e vídeo de 30–60 segundos com dados fictícios, mostrando entrada → diagnóstico → revisão → resultado, conforme o que estiver implementado e validado. Revisar o material para divulgação antes de publicá-lo; não copiar arquivos internos, dados de clientes ou credenciais para o perfil. Adicionar o link somente quando houver material público acessível.
 
 ## Destaque do Portal Camaleão
 
