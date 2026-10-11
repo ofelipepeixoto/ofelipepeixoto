@@ -2,7 +2,7 @@
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><a href="README.md">Português</a> · <strong>English</strong></p>
-<p align="center"><strong>Founder &amp; AI Product Builder | Agents, Automation &amp; Evidence-Based Systems</strong></p>
+<h2 align="center"><strong>Founder &amp; AI Product Builder | Agents, Automation &amp; Evidence-Based Systems</strong></h2>
 <p align="center">I turn business problems into digital products with agents, automation, traceable evidence and human review.</p>
 
 ## Featured projects
