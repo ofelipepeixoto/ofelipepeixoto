@@ -1,0 +1,53 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: '43 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/stats.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - name: Gerar estatísticas públicas
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=ofelipepeixoto&show_icons=true&hide_rank=true&theme=tokyonight&locale=pt-br
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: ''
+          fail_on_error: true
+      - name: Gerar distribuição de linguagens
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=ofelipepeixoto&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&exclude_repo=ofelipepeixoto,TradingAgents,LibreChat,radar-video-studio
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: ''
+          fail_on_error: true
+      - name: Publicar cartões preservando a cobrinha
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
+          commit_message: Atualizar estatísticas públicas do perfil
