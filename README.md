@@ -16,6 +16,7 @@
 | Projeto | Problema e contribuição | Estágio e demonstração |
 | --- | --- | --- |
 | [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | Projeto prioritário: cálculos determinísticos de risco DeFi, console de consultores e portal privado de diagnósticos com revisão humana. | Em desenvolvimento ativo; testes locais com dados fictícios. [Instruções para testar](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/README.md). Demo visual pendente. |
+| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Projeto prioritário da Agência Camaleão: pedidos guiados de clientes, acompanhamento e triagem da equipe. | Entrega A em revisão; sem produção ou integração Supabase/n8n homologada. [Instruções da demo local](https://github.com/ofelipepeixoto/camaleao-portal#experimentar-com-dados-fictícios); vídeo público pendente. |
 | [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Projeto prioritário da Agência Camaleão: portal de infraestrutura de IA, do diagnóstico guiado à implantação e operação. | Em desenvolvimento. [Repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal) — código acessível para consulta. Demo pública pendente. |
 | [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Ingestão de PDF, revisão por página e busca com referência ao original. | Laboratório local. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
 | [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Jornada guiada para organizar evidências e avaliar o próximo experimento de uma oportunidade. | Aplicação experimental. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
@@ -59,6 +60,7 @@ Reprodução em 11/10/2026 UTC; comandos, revisões de código e limites estão 
 - Rastreabilidade de evidências, avaliações reproduzíveis e tratamento de falhas.
 - Experimentação de modelos, políticas de orçamento e roteamento de tarefas.
 - Desenvolvimento de produtos digitais para negócios, conteúdo e análise de oportunidades.
+- Jornadas guiadas de clientes, acompanhamento de pedidos e triagem para a Agência Camaleão.
 - Desenvolvimento de infraestrutura de IA e produtos white-label para a Agência Camaleão.
 - Produtos de diagnóstico Web3/DeFi com cálculos determinísticos de risco e revisão humana.
 
@@ -103,6 +105,7 @@ Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo
 
 ### Produtos e iniciativas do ecossistema
 
+- [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) — portal de pedidos e triagem para peças sociais, campanhas, sites e automações; entrega A em revisão. É distinto do Camaleão Infra Portal, voltado a diagnóstico e operação de infraestrutura de IA.
 - [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) — projeto prioritário em desenvolvimento da [Agência Camaleão](https://camaleaoweb3.com.br/); [repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal), código público e demo pública pendente.
 - [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — projeto prioritário em desenvolvimento ativo: console local de consultores e entrega privada de diagnósticos revisados; dados fictícios e integrações de produção pendentes.
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
