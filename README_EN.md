@@ -9,6 +9,7 @@
 
 | Project | Problem and contribution | Stage and demonstration |
 | --- | --- | --- |
+| [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | My priority project: deterministic DeFi risk calculations, advisor console and a private diagnostic delivery portal with human review. | In active development; local tests with fictional data. [Testing instructions](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/README.md). Visual demo pending. |
 | [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia) | PDF ingestion, page-level review and retrieval with source references. | Local laboratory. [Case study and video](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
 | [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Guided evidence organization and deterministic readiness assessment. | Experimental application. [Case study and video](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
 | [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Import preview, opportunity triage and assumptions for human review. | Local shadow-mode MVP, no bidding. [Case study and video](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). |
@@ -26,6 +27,12 @@
 ![Fictional financial assumptions in shadow mode](https://raw.githubusercontent.com/ofelipepeixoto/hermes-leilao-rj/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/demo.png)
 
 </details>
+
+### Capital Web3 Advisor — current development
+
+NAV, debt, concentration, stress, impermanent loss and concentrated liquidity calculations; versioned review, publication, downloads and revocation. [Recorded validation](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/testing.md): 68 Python tests and two JavaScript scenarios. These are synthetic local tests; visual browser validation remains pending.
+
+OpenAI contracts, local MCP, inactive n8n templates and Supabase groundwork are prepared. Real Supabase, paid OpenAI, n8n, Sites and Hostinger are not deployed or qualified. No custody or transaction execution. [Architecture](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/architecture.md) · [Backlog](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/backlog.md) · [PRs awaiting review](https://github.com/ofelipepeixoto/capital-web3-advisor/pulls).
 
 ## Results and lessons
 
@@ -45,6 +52,7 @@ Reproduced on 2026-10-11 UTC. Commands, source revisions and limits are in the c
 - Evidence traceability, reproducible evaluation and failure handling.
 - Model experimentation, budget policies and task routing.
 - Digital products for business, content and opportunity analysis.
+- Web3/DeFi diagnostic products with deterministic risk calculations and human review.
 
 ## Technologies and tools
 
@@ -87,6 +95,7 @@ The Radar ecosystem evolves through reviewable steps. These repositories include
 
 ### Ecosystem products and initiatives
 
+- [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — priority project in active development: local advisor console and private delivery of reviewed diagnostics; fictional data, production integrations pending.
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — experimental readiness assessment for outcome-oriented businesses.
 - [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — shadow-mode opportunity triage and dossiers with human review; no bids.
 - [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
@@ -98,7 +107,7 @@ I connect editorial analysis and product development at [Radar Disruptivo](https
 - [Persistent agents and governance](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) — identity, permissions, cost and human responsibility (Portuguese).
 - [MCP, security and governance](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol) — editorial context for tool contracts and boundaries (Portuguese).
 
-These articles discuss industry context; they do not certify the project implementations. See `CONTRIBUTING.md` in each featured project for synthetic examples, small proposals and reproducible checks. AI tools assist development; product decisions, review and boundaries remain explicit.
+These articles discuss industry context; they do not certify the project implementations. See `CONTRIBUTING.md` in Document Assistant, Radar OaaS and Hermes; for Capital Web3 Advisor, follow its README, backlog and open PRs for synthetic examples, small proposals and reproducible checks. AI tools assist development; product decisions, review and boundaries remain explicit.
 
 ## Find me
 
