@@ -37,3 +37,9 @@ Revise evidências e estágio ao mudar um projeto. Atualizações de estatístic
 O perfil destaca o projeto desde já, com links fixados na revisão `0b5cf876f20590507e80facb3f6a58092860c9a9`. A implementação completa está em `feat/supabase-foundation`, com quatro PRs para revisão em ordem. A descrição não apresenta serviços preparados como integrações homologadas.
 
 Após validar o fluxo em navegador, gravar 30–60 segundos com dados fictícios: consultora prepara rascunho → revisor aprova e publica → cliente consulta sua versão → revogação bloqueia novo acesso. Publicar imagem e vídeo com revisão do código gravado, roteiro e limitações. Só então trocar “Demo visual pendente” pelo link real. Não usar identidades, carteiras ou relatórios de clientes.
+
+## Destaque do Camaleão Infra Portal
+
+O Camaleão Infra Portal é destacado ao lado do Capital Web3 Advisor em português e inglês. Seu repositório permanece privado: visitantes sem acesso não conseguem abrir o código e ele não entra na seleção pública de pins enquanto estiver privado. Não alterar visibilidade apenas para apresentação.
+
+Demo pública pendente. Preparar futuramente imagem e vídeo de 30–60 segundos com dados fictícios, mostrando entrada → diagnóstico → revisão → resultado, conforme o que estiver implementado e validado. Revisar o material para divulgação antes de publicá-lo; não copiar arquivos internos, dados de clientes ou credenciais para o perfil. Adicionar o link somente quando houver material público acessível.
