@@ -43,3 +43,11 @@ Após validar o fluxo em navegador, gravar 30–60 segundos com dados fictícios
 O Camaleão Infra Portal é destacado ao lado do Capital Web3 Advisor em português e inglês. Seu repositório foi confirmado como público em 11/10/2026. Visitantes podem consultar o código; isso não equivale a implantação ou concessão de licença open source. Para priorizar os dois projetos principais nos seis pins, substitua `radar-evidence-kit` por `camaleao-infra-portal` na seleção acima; o Evidence Kit permanece listado no README.
 
 Demo pública pendente. Preparar futuramente imagem e vídeo de 30–60 segundos com dados fictícios, mostrando entrada → diagnóstico → revisão → resultado, conforme o que estiver implementado e validado. Revisar o material para divulgação antes de publicá-lo; não copiar arquivos internos, dados de clientes ou credenciais para o perfil. Adicionar o link somente quando houver material público acessível.
+
+## Destaque do Portal Camaleão
+
+`camaleao-portal` e `camaleao-infra-portal` são projetos distintos: pedidos/triagem de clientes e infraestrutura de IA, respectivamente. Ambos estão nos destaques com links clicáveis. A entrega A do Portal Camaleão está em revisão; publicação e integrações reais ainda dependem de homologação.
+
+O README do projeto contém instruções de uma demo local com dados fictícios. Vídeo público pendente: gravar 30–60 segundos mostrando cliente cria pedido → protocolo e acompanhamento → equipe consulta a triagem, apenas nas capacidades efetivamente disponíveis. Identificar o modo demo e não apresentar simulação como Supabase/n8n real.
+
+Seleção sugerida atual dos seis pins: `capital-web3-advisor`, `camaleao-portal`, `camaleao-infra-portal`, `assistente-documental-ia`, `radar-integration-hub` e `radar-oaas`. Essa seleção substitui as recomendações anteriores; Hermes e as bibliotecas permanecem no README. Ajuste manual em Customize your pins → Save pins.

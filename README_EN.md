@@ -10,6 +10,7 @@
 | Project | Problem and contribution | Stage and demonstration |
 | --- | --- | --- |
 | [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | My priority project: deterministic DeFi risk calculations, advisor console and a private diagnostic delivery portal with human review. | In active development; local tests with fictional data. [Testing instructions](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/README.md). Visual demo pending. |
+| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Priority project for Agência Camaleão: guided client requests, tracking and team triage. | Delivery A under review; no production deployment or qualified Supabase/n8n integration. [Local demo instructions](https://github.com/ofelipepeixoto/camaleao-portal#experimentar-com-dados-fictícios); public video pending. |
 | [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Priority project for Agência Camaleão: an AI infrastructure portal, from guided diagnosis to implementation and ongoing operations. | In development. [Public repository](https://github.com/ofelipepeixoto/camaleao-infra-portal) — code available for review. Public demo pending. |
 | [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia) | PDF ingestion, page-level review and retrieval with source references. | Local laboratory. [Case study and video](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
 | [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Guided evidence organization and deterministic readiness assessment. | Experimental application. [Case study and video](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
@@ -53,6 +54,7 @@ Reproduced on 2026-10-11 UTC. Commands, source revisions and limits are in the c
 - Evidence traceability, reproducible evaluation and failure handling.
 - Model experimentation, budget policies and task routing.
 - Digital products for business, content and opportunity analysis.
+- Guided client journeys, request tracking and team triage for Agência Camaleão.
 - AI infrastructure and white-label product development for Agência Camaleão.
 - Web3/DeFi diagnostic products with deterministic risk calculations and human review.
 
@@ -97,6 +99,7 @@ The Radar ecosystem evolves through reviewable steps. These repositories include
 
 ### Ecosystem products and initiatives
 
+- [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) — client request and triage portal for social assets, campaigns, websites and automation; Delivery A under review. Separate from Camaleão Infra Portal, which focuses on AI infrastructure diagnosis and operations.
 - [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) — priority project in development for [Agência Camaleão](https://camaleaoweb3.com.br/); [public repository](https://github.com/ofelipepeixoto/camaleao-infra-portal), public code and public demo pending.
 - [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — priority project in active development: local advisor console and private delivery of reviewed diagnostics; fictional data, production integrations pending.
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — experimental readiness assessment for outcome-oriented businesses.
