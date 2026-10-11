@@ -40,6 +40,6 @@ Após validar o fluxo em navegador, gravar 30–60 segundos com dados fictícios
 
 ## Destaque do Camaleão Infra Portal
 
-O Camaleão Infra Portal é destacado ao lado do Capital Web3 Advisor em português e inglês. Seu repositório permanece privado: visitantes sem acesso não conseguem abrir o código e ele não entra na seleção pública de pins enquanto estiver privado. Não alterar visibilidade apenas para apresentação.
+O Camaleão Infra Portal é destacado ao lado do Capital Web3 Advisor em português e inglês. Seu repositório foi confirmado como público em 11/10/2026. Visitantes podem consultar o código; isso não equivale a implantação ou concessão de licença open source. Para priorizar os dois projetos principais nos seis pins, substitua `radar-evidence-kit` por `camaleao-infra-portal` na seleção acima; o Evidence Kit permanece listado no README.
 
 Demo pública pendente. Preparar futuramente imagem e vídeo de 30–60 segundos com dados fictícios, mostrando entrada → diagnóstico → revisão → resultado, conforme o que estiver implementado e validado. Revisar o material para divulgação antes de publicá-lo; não copiar arquivos internos, dados de clientes ou credenciais para o perfil. Adicionar o link somente quando houver material público acessível.
