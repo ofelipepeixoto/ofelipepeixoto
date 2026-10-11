@@ -6,7 +6,7 @@
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><strong>Português</strong> · <a href="README_EN.md">English</a></p>
-<p align="center"><strong>Founder & AI Product Builder | Agentes, automação e produtos com evidências rastreáveis e revisão humana | Ecossistema Radar</strong></p>
+<h2 align="center"><strong>Founder & AI Product Builder | Agentes, automação e produtos com evidências rastreáveis e revisão humana | Ecossistema Radar</strong></h2>
 <p align="center">
   Transformo problemas de negócio em produtos digitais com agentes, automações, evidências rastreáveis e revisão humana.
 </p>
