@@ -15,6 +15,7 @@
 
 | Projeto | Problema e contribuição | Estágio e demonstração |
 | --- | --- | --- |
+| [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | Projeto prioritário: cálculos determinísticos de risco DeFi, console de consultores e portal privado de diagnósticos com revisão humana. | Em desenvolvimento ativo; testes locais com dados fictícios. [Instruções para testar](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/README.md). Demo visual pendente. |
 | [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Ingestão de PDF, revisão por página e busca com referência ao original. | Laboratório local. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
 | [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Jornada guiada para organizar evidências e avaliar o próximo experimento de uma oportunidade. | Aplicação experimental. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). |
 | [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Prévia de importação, triagem e análise de premissas para revisão humana. | MVP local em modo sombra, sem lances. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). |
@@ -32,6 +33,12 @@
 ![Premissas financeiras do imóvel fictício em modo sombra](https://raw.githubusercontent.com/ofelipepeixoto/hermes-leilao-rj/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/demo.png)
 
 </details>
+
+### Capital Web3 Advisor — desenvolvimento atual
+
+Cálculos de NAV, dívida, concentração, stress, perda impermanente (IL) e liquidez concentrada; revisão, publicação por versão, downloads e revogação. [Validação registrada](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/testing.md): 68 testes Python e dois cenários JavaScript. São testes locais sintéticos; a validação visual em navegador permanece pendente.
+
+Contratos OpenAI, MCP local, templates n8n inativos e preparação Supabase estão disponíveis. Supabase real, OpenAI paga, n8n, Sites e Hostinger ainda não foram implantados ou homologados. Sem custódia ou execução de transações. [Arquitetura](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/architecture.md) · [Backlog](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0b5cf876f20590507e80facb3f6a58092860c9a9/docs/backlog.md) · [PRs em revisão](https://github.com/ofelipepeixoto/capital-web3-advisor/pulls).
 
 ## Resultados e aprendizados
 
@@ -51,6 +58,7 @@ Reprodução em 11/10/2026 UTC; comandos, revisões de código e limites estão 
 - Rastreabilidade de evidências, avaliações reproduzíveis e tratamento de falhas.
 - Experimentação de modelos, políticas de orçamento e roteamento de tarefas.
 - Desenvolvimento de produtos digitais para negócios, conteúdo e análise de oportunidades.
+- Produtos de diagnóstico Web3/DeFi com cálculos determinísticos de risco e revisão humana.
 
 ## Tecnologias e ferramentas
 
@@ -93,6 +101,7 @@ Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo
 
 ### Produtos e iniciativas do ecossistema
 
+- [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — projeto prioritário em desenvolvimento ativo: console local de consultores e entrega privada de diagnósticos revisados; dados fictícios e integrações de produção pendentes.
 - [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
 - [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — triagem de oportunidades e organização de dossiês em modo sombra, com revisão humana e sem execução de lances.
 - [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
@@ -106,7 +115,7 @@ Conecto análise editorial e desenvolvimento de produtos no [Radar Disruptivo](h
 
 Esses artigos discutem o contexto do setor; não certificam nem validam as implementações dos meus projetos.
 
-Para colaborar, consulte `CONTRIBUTING.md` nos três projetos em destaque: exemplos fictícios, propostas pequenas, critérios de aceite e verificações reproduzíveis. Ferramentas de IA apoiam o desenvolvimento; decisões de produto, revisão e limites permanecem explícitos.
+Para colaborar, consulte `CONTRIBUTING.md` no Assistente Documental, Radar OaaS e Hermes; no Capital Web3 Advisor, siga o README, o backlog e as PRs em revisão: exemplos fictícios, propostas pequenas, critérios de aceite e verificações reproduzíveis. Ferramentas de IA apoiam o desenvolvimento; decisões de produto, revisão e limites permanecem explícitos.
 
 ## Onde me encontrar
 
