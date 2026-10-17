@@ -1,29 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/main/banner.png"
-       alt="Banner de Carlos Felipe — engenharia de IA"
-       width="100%">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/main/banner.png" alt="Banner de Carlos Felipe — engenharia de IA" width="100%">
 </p>
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><strong>Português</strong> · <a href="README_EN.md">English</a></p>
-<h2 align="center"><strong>Founder & AI Product Builder | Agentes, automação e produtos com evidências rastreáveis e revisão humana | Ecossistema Radar</strong></h2>
-<p align="center">
-  Transformo problemas de negócio em produtos digitais com agentes, automações, evidências rastreáveis e revisão humana.
-</p>
+
+Construo produtos digitais e experimentos de IA para organizar evidências, orientar decisões e tornar fluxos de trabalho mais claros para equipes e clientes. Trabalho da definição do problema à implementação e à revisão humana, com atenção ao que foi realmente testado. O portfólio reúne iniciativas em automação, conteúdo, infraestrutura e Web3 em estágios diferentes.
 
 ## Projetos em destaque
 
-| Projeto | Problema e contribuição | Estágio e demonstração |
+| Projeto | Problema, solução e contribuição | Estágio e como conhecer |
 | --- | --- | --- |
-| [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | Projeto prioritário: cálculos determinísticos de risco DeFi, console de consultores e portal privado de diagnósticos com revisão humana. | [Staging autenticado em revisão na PR #10](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/10); Chromium com Auth/PostgREST reais descartáveis, via ponte Node e dados fictícios. [Instruções para testar](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/README.md). Edge hospedado, piloto privado na nuvem e demo pública pendentes. |
-| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Projeto prioritário da Agência Camaleão: pedidos guiados, triagem, versões textuais de entregas, aprovação ou pedido de ajustes e histórico por versão/hash. | Entregas A/B, demo guiada e orientações de briefing [integradas à main](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/README.md); homologação real, produção e integrações Supabase Auth/PostgREST/Storage e n8n pendentes. [Instruções da demo local](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/README.md#experimentar-com-dados-fictícios). [Abrir demonstração online](https://demo-portal.camaleaoweb3.com.br/) — somente dados fictícios locais no navegador; vídeo público pendente. |
-| [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Projeto prioritário da Agência Camaleão: portal de infraestrutura de IA, do diagnóstico guiado à implantação e operação. | Em desenvolvimento. [Repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal) — código acessível para consulta. [Demonstração online](https://infra.camaleaoweb3.com.br/) — requer login com ChatGPT. |
-| [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Jornada guiada para organizar evidências e avaliar o próximo experimento de uma oportunidade. | Aplicação experimental. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). [Abrir demonstração](https://oaas.camaleaoweb3.com.br/). |
-| [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Prévia de importação, triagem e análise de premissas para revisão humana. | MVP local em modo sombra, sem lances. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). [Abrir demonstração](https://hermes.camaleaoweb3.com.br/). |
-| [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Ingestão de PDF, revisão por página e busca com referência ao original. | Laboratório local. [Estudo de caso e vídeo](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
+| [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) | Uma consultoria DeFi precisa calcular riscos e entregar diagnósticos revisados sem executar transações. Desenvolvo o motor determinístico, o console de revisão e um portal de entrega por versão. | Demonstração local com dados fictícios; a camada de [staging autenticado está na PR #10](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/10), encadeada sobre outras PRs e ainda fora da `main`. O [registro de validação](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/d08d384a64416a687a9351632d77014f167c39f7/docs/authenticated-staging.md) distingue Auth/PostgREST descartáveis de Edge hospedado e piloto real, ainda pendentes. |
+| [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Necessidades de infraestrutura de IA exigem diagnóstico, plano revisado e acompanhamento. Estruturo o produto da Agência Camaleão e sua jornada de revisão. | A [`main` contém plano e referência offline](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/71f9102792ac2a4e7b6156a85f24d9e4636bb4f7/README.md); a implementação de intake persistente e revisão está em [PRs encadeadas](https://github.com/ofelipepeixoto/camaleao-infra-portal/pulls). CI nas branches não comprova implantação nem homologação de clientes. |
+| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Pedidos de peças, campanhas, sites e automações perdem contexto nas trocas. Desenvolvi uma jornada de briefing, triagem, versões textuais e decisão de aprovação ou ajustes. É um produto distinto do portal de infraestrutura. | Entregas A/B e revisão guiada [integradas à `main`](https://github.com/ofelipepeixoto/camaleao-portal/commits/main/). [Instruções da demo local com dados fictícios](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/README.md#experimentar-com-dados-fict%C3%ADcios); Supabase Auth/PostgREST/Storage, n8n e operação real ainda carecem de homologação. |
+| [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Fundadores precisam saber qual evidência falta antes de avançar em uma oportunidade. Construí uma avaliação guiada que separa dados ausentes, regras e revisão humana. | Aplicação experimental na `main`. [Estudo de caso, captura e vídeo com exemplo sintético](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/docs/portfolio/CASE_STUDY.md); sem validação de adoção ou resultado financeiro. |
+| [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | A análise de imóveis em leilão requer conferir origem, importação e premissas antes de decidir. Construí prévia de importação, triagem e dossiê com campos pendentes visíveis. | MVP local em modo sombra, sem lances. [Estudo de caso, captura e vídeo fictícios](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/docs/portfolio/CASE_STUDY.md); não é recomendação de investimento. |
+| [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia) | Buscar em PDFs sem perder a referência original exige conferir cada página. Construí ingestão, correção e aprovação de trechos antes da busca com fontes. | Laboratório local. [Estudo de caso, captura e vídeo com PDF fictício](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/docs/portfolio/CASE_STUDY.md); documentos reais e OCR não foram homologados. |
 
 <details>
-<summary>Ver as interfaces reais com dados fictícios</summary>
+<summary>Ver interfaces executadas com dados fictícios</summary>
 
 ### Assistente Documental
 ![Busca com evidência no PDF fictício](https://raw.githubusercontent.com/ofelipepeixoto/assistente-documental-ia/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/demo.png)
@@ -36,103 +32,39 @@
 
 </details>
 
-### Capital Web3 Advisor — desenvolvimento atual
-
-Cálculos de NAV, dívida, concentração, stress, perda impermanente (IL) e liquidez concentrada; aprovação, publicação por versão, downloads e revogação. O registro inicial da [PR #7](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/homologation.md) documenta navegador sintético e Supabase descartável em suítes separadas. A [CI dessa etapa](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38108703715) testou o código de `dd0b539`; até o head `0ae8bcd`, mudaram apenas README e documentação.
-
-O [portal de staging da PR #10](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/10) já foi exercitado em Chromium com login, revisão por versão, publicação, negativas de acesso entre contas, download e revogação. A [CI aprovada](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38157591368) usou Auth/PostgREST reais descartáveis, dados fictícios e uma ponte para o handler Node; os [limites documentados](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/d08d384a64416a687a9351632d77014f167c39f7/docs/authenticated-staging.md) incluem Deno Edge hospedado, TLS/CSP, MFA e produção ainda não validados. A PR #11 foi integrada somente à branch da #10; a #10 permanece aberta, sem integração à main. Edge hospedado e piloto real continuam pendentes.
-
-OpenAI permanece em contratos com adapter fictício e consumo pago desativado; MCP é um exemplo local; templates n8n estão inativos. Sites e Hostinger seguem sem implantação. A validação descartável não libera produção nem certifica segurança. Sem custódia ou execução de transações. [Arquitetura](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/architecture.md) · [Backlog](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/backlog.md) · [PRs em revisão](https://github.com/ofelipepeixoto/capital-web3-advisor/pulls).
-
 ## Resultados e aprendizados
 
-| Evidência reproduzida | Resultado observado | Limite da conclusão |
-| --- | --- | --- |
-| Capital Web3 — [validação inicial em suítes separadas](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/homologation.md) | No [staging autenticado](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38157591368), Chromium passou por login, revisão por versão, publicação, negativas entre contas, download e bloqueio de novos acessos após revogação. | Dados fictícios e Auth/PostgREST reais descartáveis via ponte Node. Não valida Deno Edge hospedado, TLS/CSP, MFA, produção ou resultado comercial; revogar não recupera arquivos já baixados. |
-| Portal Camaleão — [versões e decisões B1/B2](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/docs/ENTREGA-B2.md) e [CI](https://github.com/ofelipepeixoto/camaleao-portal/actions/runs/38114158773) | Versões/decisões imutáveis no contrato SQL, conflitos sem aprovação automática e reenvios com o mesmo ID sem duplicar efeitos; datas preservadas entre SQL, driver, código de triagem e conclusão do job. | PostgreSQL descartável e navegador com fixtures; Auth/SDK simulados, sem execução real do n8n ou homologação Supabase Auth/PostgREST/Storage. A/B integradas à main; homologação real pendente, sem comprovação comercial. |
-| PDF digital sintético de três páginas | 7/7 casos de busca; texto sem revisão permanece fora dos resultados. | Não mede OCR, documentos reais ou qualidade jurídica. |
-| Radar OaaS — testes unitários/IA | 132 testes aprovados em seis arquivos. | Não comprova Auth/RLS real, uso por clientes ou retorno financeiro. |
-| Hermes — domínio, importação e regressões selecionadas | 33 testes aprovados. | Não substitui suíte completa, homologação ou aprovação de investimento. |
-
-Reproduções registradas em 11/10/2026 UTC; comandos, revisões de código e limites estão nos estudos de caso e registros de validação vinculados. Contagens de testes são evidências de comportamento no escopo executado, não métricas de produtividade ou adoção.
+- **Revisão por versão:** no [Capital Web3](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/d08d384a64416a687a9351632d77014f167c39f7/docs/authenticated-staging.md), o fluxo Chromium da CI cobriu login, revisão, publicação, negativas entre contas, download e revogação com dados fictícios e Auth/PostgREST descartáveis por uma ponte Node. Edge hospedado, MFA, TLS/CSP e piloto real continuam pendentes; revogar acesso não recupera um arquivo já baixado.
+- **Conflitos e reenvios:** o [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/docs/ENTREGA-B2.md) preserva decisões por versão e trata reenvios sem duplicar efeitos nos testes de banco. Fixtures de navegador e banco descartável não substituem a homologação das integrações reais.
+- **Incerteza visível:** [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/docs/portfolio/CASE_STUDY.md) mantém evidência insuficiente como pendência; [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/docs/portfolio/CASE_STUDY.md) conserva campos financeiros desconhecidos; o [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/docs/portfolio/CASE_STUDY.md) exclui texto não aprovado da busca. Os estudos usam dados fictícios e não medem adoção, eficácia em clientes ou receita.
 
 ## Áreas de atuação
 
-- Agentes de IA, automações e integração de ferramentas, APIs e contratos MCP com controles no servidor.
-- Processamento de documentos, busca e respostas apoiadas em fontes (RAG).
-- Revisão e publicação por versão, autorização por cliente e rastreabilidade de decisões.
-- Testes reproduzíveis com dados fictícios, tratamento de falhas, conflitos e reenvios.
-- Experimentação de modelos, políticas de orçamento e roteamento de tarefas.
-- Desenvolvimento de produtos digitais para negócios, conteúdo e análise de oportunidades.
-- Jornadas guiadas de pedidos e triagem, infraestrutura de IA e produtos white-label para a Agência Camaleão.
-- Diagnósticos Web3/DeFi com cálculos determinísticos de risco.
+- Produtos com agentes e automações, ferramentas limitadas, aprovação humana e falhas explícitas.
+- Processamento e busca documental com fonte, versão e avaliação de recuperação.
+- Experimentos de modelos, roteamento de tarefas e controle de orçamento.
+- Jornadas digitais de pedidos, diagnóstico e conteúdo editorial.
+- Análise de risco Web3/DeFi e triagem de oportunidades sem execução financeira.
 
 ## Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/astro/astro-original.svg" alt="Astro" title="Astro" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/APIs-176B45?style=for-the-badge" alt="APIs">
-  <img src="https://img.shields.io/badge/MCP-176B45?style=for-the-badge" alt="MCP">
-</p>
-
-Uso Vite no frontend do [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/package.json); Vinext com [D1](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/db/index.ts) na implementação em revisão do [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/package.json); e Playwright nos testes de navegador do Portal e do [Capital Web3](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/tests/browser/package.json). No Capital, OpenAI é contrato com adapter fictício, MCP é experimento local e n8n tem templates inativos; no Portal, a execução real do n8n continua pendente.
+Uso **Python** para motores determinísticos e laboratórios documentais; **TypeScript, Vite e Playwright** no Portal Camaleão; **Astro e React** no Radar OaaS; **PostgreSQL e contratos Supabase** nos testes de autorização e persistência. A implementação em revisão do Infra Portal usa **Vinext e D1** ([código](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/db/index.ts)). **n8n** aparece em contratos e templates inativos nos projetos citados; **MCP** em exemplos locais; no Capital, **OpenAI** permanece com adapter fictício e consumo pago desativado. Essas menções descrevem usos concretos, sem afirmar integrações em produção.
 
 ## Projetos e iniciativas
 
-Desenvolvo o ecossistema Radar por etapas verificáveis. Os repositórios abaixo incluem produtos em desenvolvimento, bibliotecas experimentais e laboratórios; seus READMEs registram o que foi validado e os limites atuais.
+**Integrações e evidências.** [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) estuda ferramentas governadas com demonstrações locais; [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) desenvolve contratos experimentais de evidência, recibos e proveniência. As integrações externas seguem limitadas ao escopo documentado em cada repositório.
 
-### Integrações, evidências e modelos
+**Modelos e aprendizagem.** [Radar Model Router](https://github.com/ofelipepeixoto/radar-model-router) recomenda localmente níveis de modelo e orçamento, sem chamar modelos; reconhece a política de terceiro usada como referência em seus avisos. As [PRs FT05](https://github.com/ofelipepeixoto/radar-model-router/pulls) preparam corpus sintético e avaliação, sem treino ou benchmark completo comprovado. [Radar Classificador Colab](https://github.com/ofelipepeixoto/radar-classificador-colab) é uma extração educacional em [PRs rascunho](https://github.com/ofelipepeixoto/radar-classificador-colab/pulls); ainda não é tutorial homologado nem modelo para atendimento real.
 
-- [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) — laboratório de integrações governadas, ferramentas restritas e revisão humana; serviços externos ainda não homologados.
-- [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) — biblioteca experimental para contratos de evidência, recibos e proveniência.
-- [Radar Model Router](https://github.com/ofelipepeixoto/radar-model-router) — experimentos locais de roteamento de tarefas e orçamento; sem chamadas a modelos. A [PR #6 em rascunho](https://github.com/ofelipepeixoto/radar-model-router/pull/6) propõe 216 exemplos sintéticos candidatos, todos não revisados por humanos, e [preparação offline para comparar modelo base e LoRA](https://github.com/ofelipepeixoto/radar-model-router/blob/fca479d1ce5b748d32a44ecd8806410816fbb6ab/experiments/ft05/README.md); treino e benchmark de modelos ainda não executados.
+**Documentos e revisão.** [Avaliação de recuperação jurídica](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) usa contratos fictícios; [Laboratório de busca RAG](https://github.com/ofelipepeixoto/laboratorio-busca-rag) compara métodos de recuperação; [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) demonstra execução restrita após confirmação; [Revisão de fontes](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) organiza evidências e incertezas.
 
-### Documentos e avaliação
-
-- [Assistente documental](https://github.com/ofelipepeixoto/assistente-documental-ia) — ingestão local de PDFs, revisão por página e busca com fontes.
-- [Avaliação de recuperação jurídica](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) — avaliação de busca documental com contratos fictícios.
-- [Laboratório de busca documental](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparação de métodos de recuperação em conjuntos didáticos.
-- [Agente com aprovação humana](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — demonstração local de proposta, aprovação explícita e execução restrita.
-- [Revisão de fontes](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) — skill autoral para rastrear evidências e declarar incertezas.
-
-### Produtos e iniciativas do ecossistema
-
-- [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) — pedidos guiados e triagem para peças sociais, campanhas, sites e automações, com versões textuais, aprovação ou pedido de ajustes e histórico por versão/hash. Entregas A/B, demo guiada e orientações de briefing integradas à main; demo somente com dados fictícios locais, homologação real, produção e integrações Supabase Auth/PostgREST/Storage e n8n pendentes. É distinto do Camaleão Infra Portal, voltado a diagnóstico e operação de infraestrutura de IA.
-- [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) — projeto prioritário em desenvolvimento da [Agência Camaleão](https://camaleaoweb3.com.br/); [repositório público](https://github.com/ofelipepeixoto/camaleao-infra-portal), código público e [demonstração online](https://infra.camaleaoweb3.com.br/) com login ChatGPT.
-- [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — console de consultores e entrega privada de diagnósticos com aprovação, publicação por versão e revogação; staging autenticado na PR #10, com Chromium → Auth/PostgREST reais descartáveis via ponte Node e dados fictícios. A PR #11 entrou apenas nessa branch, não na main. Edge hospedado, piloto real, demo pública e produção pendentes.
-- [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — avaliador experimental de prontidão para negócios orientados a resultados.
-- [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — triagem de oportunidades e organização de dossiês em modo sombra, com revisão humana e sem execução de lances.
-- [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
+**Ecossistema e conteúdo.** [Radar Tech News](https://github.com/radartech-news), [Help Mídias](https://github.com/helpmidias-ia), [Radar Disruptivo](https://radardisruptivo.com.br/) e [Agência Camaleão](https://camaleaoweb3.com.br/) são iniciativas do ecossistema; os portais Camaleão acima atendem jornadas distintas dentro da mesma agência.
 
 ## Conteúdo e colaboração
 
-Conecto análise editorial e desenvolvimento de produtos no [Radar Disruptivo](https://radardisruptivo.com.br/):
+No [Radar Disruptivo](https://radardisruptivo.com.br/), conecto análise editorial e decisões de produto. Leia os textos sobre [agentes persistentes e governança](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) e [MCP, segurança e governança](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol). Os artigos oferecem contexto, não certificam os projetos.
 
-- [Agentes persistentes e governança](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) — identidade, permissões, custos e responsabilidade humana.
-- [MCP: segurança e governança](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol) — contexto editorial para contratos e limites de ferramentas.
-
-Esses artigos discutem o contexto do setor; não certificam nem validam as implementações dos meus projetos.
-
-Os guias `CONTRIBUTING.md` propõem tarefas pequenas e verificáveis:
-
-- [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/CONTRIBUTING.md): adicionar PDF fictício de duas colunas, registrar falhas de extração e executar `python avaliar_pdf.py --strict`, preservando os requisitos de aprovação.
-- [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/CONTRIBUTING.md): adicionar CSVs fictícios com preços ausentes ou tipos de imóvel ambíguos, documentar a sinalização na prévia de importação e executar `npm run test:unit`.
-- [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/CONTRIBUTING.md): melhorar um termo PT/EN e um exemplo fictício que diferencie dado desconhecido de evidência desfavorável; executar `npm run test:unit`.
-
-Use fixtures reproduzíveis, resultado esperado explícito e registro dos limites e verificações. No Capital Web3 Advisor, siga o README, o backlog e as PRs em revisão. Ferramentas de IA apoiam o desenvolvimento; decisões de produto, revisão e limites permanecem explícitos.
+Para conhecer o trabalho, comece pelos estudos de caso e vídeos dos destaques. Para contribuir com exemplos fictícios e verificações reproduzíveis, veja os guias do [Assistente Documental](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/CONTRIBUTING.md), [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/CONTRIBUTING.md) e [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/CONTRIBUTING.md).
 
 ## Onde me encontrar
 
@@ -148,7 +80,7 @@ Use fixtures reproduzíveis, resultado esperado explícito e registro dos limite
   <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/top-langs.svg" alt="Linguagens dos repositórios públicos de Carlos Felipe" width="49%">
 </p>
 
-Atualizadas diariamente pelo GitHub Actions. As linguagens refletem a distribuição de código nos repositórios públicos, não nível de domínio ou horas de trabalho. As contribuições abaixo complementam a evolução da atividade.
+Atualizadas diariamente pelo GitHub Actions. A distribuição de linguagens reflete código público, não domínio técnico ou horas de trabalho; o perfil e alguns repositórios importados/de referência são excluídos do cartão de linguagens.
 
 ## Minhas contribuições
 
