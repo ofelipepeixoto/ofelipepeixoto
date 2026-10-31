@@ -1,23 +1,26 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/main/banner.png" alt="Carlos Felipe — technology portfolio" width="100%"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/main/banner.png" alt="Carlos Felipe — AI engineering portfolio" width="100%">
+</p>
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><a href="README.md">Português</a> · <strong>English</strong></p>
-<h2 align="center"><strong>Founder &amp; AI Product Builder | Agents, Automation &amp; Evidence-Based Systems</strong></h2>
-<p align="center">I turn business problems into digital products with agents, automation, traceable evidence and human review.</p>
+
+I build digital products and AI experiments that help teams and clients organize evidence, make decisions and navigate clearer workflows. My work spans problem definition, implementation and human review, with explicit boundaries around what has actually been tested. This portfolio brings together automation, content, infrastructure and Web3 initiatives at different stages.
 
 ## Featured projects
 
-| Project | Problem and contribution | Stage and demonstration |
+| Project | Problem, solution and contribution | Stage and where to look |
 | --- | --- | --- |
-| [Capital Web3 Advisor](https://capital.camaleaoweb3.com.br/) | DeFi advisory work needs risk calculations and reviewed reports without executing transactions. I develop the deterministic engine, review console and versioned delivery portal. | The domain points to Site v2 for staging. [Code and documentation](https://github.com/ofelipepeixoto/capital-web3-advisor) · [synthetic cloud flow evidence](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/631dc69591a01b5218493e501fe581900a7ea416/docs/evidence/cloud-staging-2026-10-17.md) · [PR #12](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/12), stacked and outside `main`. Do not enter real data: customer access, a pilot and production have not been validated. |
-| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Priority project for Agência Camaleão: guided requests, triage, text delivery versions, approval or change requests and history by version/hash. | Deliveries A/B, guided demo and briefing guidance [merged into main](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/README.md); real integration validation, production and Supabase Auth/PostgREST/Storage and n8n integrations pending. [Local demo instructions](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/README.md#experimentar-com-dados-fictícios). [Open online demonstration](https://demo-portal.camaleaoweb3.com.br/) — fictional data stored locally in the browser only; public video pending. |
-| [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | Priority project for Agência Camaleão: an AI infrastructure portal, from guided diagnosis to implementation and ongoing operations. | In development. [Public repository](https://github.com/ofelipepeixoto/camaleao-infra-portal) — code available for review. [Online demonstration](https://infra.camaleaoweb3.com.br/) — ChatGPT sign-in required. |
-| [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Guided evidence organization and deterministic readiness assessment. | Experimental application. [Case study and video](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/docs/portfolio/CASE_STUDY.md). [Open demonstration](https://oaas.camaleaoweb3.com.br/). |
-| [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Import preview, opportunity triage and assumptions for human review. | Local shadow-mode MVP, no bidding. [Case study and video](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/docs/portfolio/CASE_STUDY.md). [Open demonstration](https://hermes.camaleaoweb3.com.br/). |
-| [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia) | PDF ingestion, page-level review and retrieval with source references. | Local laboratory. [Case study and video](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/CASE_STUDY.md). |
+| [Capital Web3 Advisor](https://capital.camaleaoweb3.com.br/) | DeFi advisory work needs risk calculations and reviewed reports without executing transactions. I develop the deterministic engine, review console and versioned delivery portal. | Synthetic validation of the COFRE Individual journey was documented on October 17, 2026, with hosted Site v3 and Edge v4. [Code and documentation](https://github.com/ofelipepeixoto/capital-web3-advisor) · [October 17 evidence and limits](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/28a86e76a7b1d30f7bc057e46b0c23fef6404608/docs/evidence/cofre-individual-2026-10-17.md) · [PR #14](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/14), stacked and outside `main`. Do not enter real data: customer access, a pilot and production have not been validated. |
+| [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) | Requests for creative assets, campaigns, websites and automation can lose context. I built guided briefs, triage, text delivery versions and approval or change requests. This is separate from the infrastructure portal. | Deliveries A/B and guided review [merged into `main`](https://github.com/ofelipepeixoto/camaleao-portal/commits/main/). [Local demo instructions with fictional data](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/README.md#experimentar-com-dados-fict%C3%ADcios); real Supabase Auth/PostgREST/Storage, n8n and operational use still need validation. [Online demo](https://demo-portal.camaleaoweb3.com.br/) uses only fictional data stored locally in the browser. |
+| [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) | AI infrastructure needs a guided diagnosis, reviewed plan and ongoing support. I shape this Agência Camaleão product and its review journey. | [`main` contains a plan and an offline reference](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/71f9102792ac2a4e7b6156a85f24d9e4636bb4f7/README.md); persistent intake and review are in [stacked PRs](https://github.com/ofelipepeixoto/camaleao-infra-portal/pulls). [Online demo](https://infra.camaleaoweb3.com.br/) requires ChatGPT login. The demo and branch CI do not validate customer use. |
+| [Security Workbench](https://security-workbench.camaleaoweb3.com.br/) | Experimental static-analysis platform for authorized GitHub repositories: checks identity, commit and hashes, presents candidate findings with evidence for human review, and tracks reports and history. | [Public demo](https://security-workbench.camaleaoweb3.com.br/) with fictional data and no login: choose **Explorar exemplo**. Real analyses remain protected by ChatGPT login; in this hosted version, reads are limited to public repositories owned by `ofelipepeixoto` and up to 20 files per analysis. [Code and documentation](https://github.com/ofelipepeixoto/security-workbench) on `main`, under the [MIT license](https://github.com/ofelipepeixoto/security-workbench/blob/main/LICENSE). Partial coverage does not constitute a complete audit. |
+| [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) | Founders need to see which evidence is missing before advancing an opportunity. I built a guided assessment that separates missing data, rules and human review. | Experimental app on `main`. [Case study, screenshot and video with a synthetic example](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/docs/portfolio/CASE_STUDY.md); no evidence of adoption or financial outcomes. [Open demo](https://oaas.camaleaoweb3.com.br/). |
+| [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) | Property auction analysis requires source checks, import review and explicit assumptions before decisions. I built an import preview, triage and dossier with visible unknowns. | Local shadow-mode MVP, no bids. [Case study, screenshot and fictional video](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/docs/portfolio/CASE_STUDY.md); not investment advice. [Open demo](https://hermes.camaleaoweb3.com.br/). |
+| [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia) | PDF retrieval needs source references and page-level checking. I built ingestion, correction and approval of passages before source-grounded search. | Local laboratory. [Case study, screenshot and video with a fictional PDF](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/docs/portfolio/CASE_STUDY.md); real documents and OCR have not been validated. |
 
 <details>
-<summary>Real interfaces using fictional data</summary>
+<summary>View interfaces run with fictional data</summary>
 
 ### Document Assistant
 ![Reviewed PDF retrieval](https://raw.githubusercontent.com/ofelipepeixoto/assistente-documental-ia/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/docs/portfolio/demo.png)
@@ -30,103 +33,39 @@
 
 </details>
 
-### Capital Web3 Advisor — current development
-
-NAV, debt, concentration, stress, impermanent loss and concentrated liquidity calculations; approval, versioned publication, downloads and revocation. The initial [PR #7 record](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/homologation.md) documents synthetic browser scenarios and disposable Supabase in separate suites. The [CI run for that stage](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38108703715) tested the code from `dd0b539`; only README and documentation changed through head `0ae8bcd`.
-
-The [staging portal in PR #10](https://github.com/ofelipepeixoto/capital-web3-advisor/pull/10) has now been exercised in Chromium through login, versioned review, publication, access denials between accounts, download and revocation. The [passing CI run](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38157591368) used real disposable Auth/PostgREST, fictional data and a bridge to the Node handler; the [documented limits](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/d08d384a64416a687a9351632d77014f167c39f7/docs/authenticated-staging.md) include hosted Deno Edge, TLS/CSP, MFA and production remaining unvalidated. PR #11 was merged only into the branch for #10; #10 remains open and has not been merged into main. Hosted Edge and a real pilot remain pending.
-
-OpenAI remains at the contract stage with a fictional adapter and paid usage disabled; MCP is a local example; n8n templates are inactive. Sites and Hostinger remain undeployed. Disposable validation does not authorize production or certify security. No custody or transaction execution. [Architecture](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/architecture.md) · [Backlog](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/backlog.md) · [PRs awaiting review](https://github.com/ofelipepeixoto/capital-web3-advisor/pulls).
-
 ## Results and lessons
 
-| Reproduced evidence | Observed result | Conclusion boundary |
-| --- | --- | --- |
-| Capital Web3 — [initial validation in separate suites](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/docs/homologation.md) | In [authenticated staging](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/38157591368), Chromium covered login, versioned review, publication, access denials between accounts, download and denial of fresh access after revocation. | Fictional data and real disposable Auth/PostgREST through a Node bridge. Does not validate hosted Deno Edge, TLS/CSP, MFA, production or commercial results; revocation does not retrieve previously downloaded files. |
-| Portal Camaleão — [B1/B2 versions and decisions](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/docs/ENTREGA-B2.md) and [CI](https://github.com/ofelipepeixoto/camaleao-portal/actions/runs/38114158773) | Immutable versions/decisions in the SQL contract, conflicts without automatic approval and retries with the same ID without duplicate effects; dates preserved across SQL, driver, triage code and job completion. | Disposable PostgreSQL and browser fixtures; simulated Auth/SDK, no real n8n execution or Supabase Auth/PostgREST/Storage qualification. A/B merged into main; real integration validation pending, no commercial evidence. |
-| Three-page synthetic digital PDF | 7/7 retrieval cases; unrevised text stays out of results. | Does not measure OCR, real documents or legal quality. |
-| Radar OaaS unit/AI tests | 132 passing tests in six files. | Does not validate real Auth/RLS, customer adoption or ROI. |
-| Selected Hermes domain/import/regression tests | 33 passing tests. | Does not replace full testing or investment approval. |
-
-Reproductions recorded on 2026-10-11 UTC. Commands, source revisions and limits are in the linked case studies and validation records. Test counts are scoped behavior checks, not productivity or adoption metrics.
+- **Versioned review:** in [Capital Web3](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/28a86e76a7b1d30f7bc057e46b0c23fef6404608/docs/evidence/cofre-individual-2026-10-17.md), [COFRE journey CI](https://github.com/ofelipepeixoto/capital-web3-advisor/actions/runs/39068252716) passed on candidate `2c46388`, using fictional data, real disposable Auth/PostgREST and a Node bridge to the Edge handler. A separate smoke test on hosted Edge v4 checked independent review, publication to an exact recipient, download, receipt and revocation. Recorded navigation on Site v3 reached a saved draft. Invitations/recovery, real MFA, attachments, load and customer use remain pending; a pilot and production have not been validated. Revocation cannot retrieve an already downloaded file.
+- **Conflicts and retries:** [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal/blob/6acae7ad977cef31eef0d284a7bcffa40e9f20ba/docs/ENTREGA-B2.md) preserves versioned decisions and tests repeat requests without duplicate effects. Browser fixtures and a disposable database do not replace real integration validation.
+- **Visible uncertainty:** [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/docs/portfolio/CASE_STUDY.md) keeps insufficient evidence pending; [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/docs/portfolio/CASE_STUDY.md) retains unknown financial fields; [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/docs/portfolio/CASE_STUDY.md) excludes unapproved text from retrieval. These case studies use fictional data and do not measure adoption, customer effectiveness or revenue.
 
 ## Focus areas
 
-- AI agents, automation, tool and API integration, and MCP contracts with server-side controls.
-- Document processing, retrieval and source-grounded answers (RAG).
-- Versioned review and publication, per-client authorization and traceable decisions.
-- Reproducible tests with fictional data, failure handling, conflicts and retries.
-- Model experimentation, budget policies and task routing.
-- Digital products for business, content and opportunity analysis.
-- Guided request and triage journeys, AI infrastructure and white-label products for Agência Camaleão.
-- Web3/DeFi diagnostics with deterministic risk calculations.
+- Products with agents and automation, bounded tools, human approval and explicit failures.
+- Document processing and retrieval with sources, versions and evaluation.
+- Model experiments, task routing and budget controls.
+- Digital request journeys, diagnosis and editorial content.
+- Web3/DeFi risk analysis and opportunity triage without financial execution.
 
 ## Technologies and tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/astro/astro-original.svg" alt="Astro" title="Astro" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/APIs-176B45?style=for-the-badge" alt="APIs">
-  <img src="https://img.shields.io/badge/MCP-176B45?style=for-the-badge" alt="MCP">
-</p>
-
-I use Vite for the [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal/blob/3d2c321e4eeef06ed3c69aab9079a2995c794416/package.json) frontend; Vinext with [D1](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/db/index.ts) in the [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/package.json) implementation under review; and Playwright for browser tests in Portal and [Capital Web3](https://github.com/ofelipepeixoto/capital-web3-advisor/blob/0ae8bcd76dee30130f896fbca8369d89b347b5ba/tests/browser/package.json). In Capital, OpenAI is a contract with a fictional adapter, MCP is a local experiment and n8n has inactive templates; in Portal, real n8n execution remains pending.
+I use **Python** for deterministic engines and document laboratories; **TypeScript, Vite and Playwright** in Portal Camaleão; **Astro and React** in Radar OaaS; and **PostgreSQL and Supabase** in authorization and persistence tests and synthetic validation. The Infra Portal implementation under review uses **Vinext and D1** ([code](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/db/index.ts)). **n8n** appears in contracts and inactive templates in the cited projects; **MCP** in local examples; **OpenAI** in Capital remains a fictional adapter with paid usage disabled. These are concrete uses, not claims of production integrations.
 
 ## Projects and initiatives
 
-The Radar ecosystem evolves through reviewable steps. These repositories include products in development, experimental libraries and laboratories; their READMEs describe verified scope and current limits.
+**Integrations and evidence.** [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) studies governed tools with local demonstrations; [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) develops experimental evidence contracts, receipts and provenance. External integrations remain within each repository's documented scope.
 
-### Integrations, evidence and models
+**Models and learning.** [Radar Model Router](https://github.com/ofelipepeixoto/radar-model-router) makes local model-tier and budget recommendations without calling models; its notices attribute a third-party policy used as a reference. The [FT05 PRs](https://github.com/ofelipepeixoto/radar-model-router/pulls) prepare a synthetic corpus and evaluation, without verified full training or benchmarking. [Radar Classificador Colab](https://github.com/ofelipepeixoto/radar-classificador-colab) is an educational extraction in [draft PRs](https://github.com/ofelipepeixoto/radar-classificador-colab/pulls); it is not yet a validated tutorial or a model for real customer service.
 
-- [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) — governed integration laboratory, restricted tools and human review; external services are not yet qualified.
-- [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) — experimental evidence contracts, receipts and provenance library.
-- [Radar Model Router](https://github.com/ofelipepeixoto/radar-model-router) — local task-routing and budget experiments; no model calls. [Draft PR #6](https://github.com/ofelipepeixoto/radar-model-router/pull/6) proposes 216 synthetic candidate examples, all awaiting human review, and [offline preparation to compare the base model and LoRA](https://github.com/ofelipepeixoto/radar-model-router/blob/fca479d1ce5b748d32a44ecd8806410816fbb6ab/experiments/ft05/README.md); model training and benchmarking have not been run.
+**Documents and review.** [Legal retrieval evaluation](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) uses fictional contracts; [RAG search laboratory](https://github.com/ofelipepeixoto/laboratorio-busca-rag) compares retrieval methods; [Human approval agent](https://github.com/ofelipepeixoto/agente-aprovacao-humana) demonstrates restricted execution after confirmation; [Source review](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) organizes evidence and uncertainties.
 
-### Documents and evaluation
-
-- [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia) — local PDF ingestion, page review and source retrieval.
-- [Legal retrieval evaluation](https://github.com/ofelipepeixoto/avaliacao-rag-juridico) — document retrieval evaluation with fictional contracts.
-- [Retrieval laboratory](https://github.com/ofelipepeixoto/laboratorio-busca-rag) — comparison of retrieval methods on educational datasets.
-- [Human approval agent](https://github.com/ofelipepeixoto/agente-aprovacao-humana) — local demonstration of proposals, explicit approval and restricted execution.
-- [Source review](https://github.com/ofelipepeixoto/skill-revisao-de-fontes) — original skill for evidence tracing and uncertainty disclosure.
-
-### Ecosystem products and initiatives
-
-- [Portal Camaleão](https://github.com/ofelipepeixoto/camaleao-portal) — guided requests and triage for social assets, campaigns, websites and automation, with text versions, approval or change requests and history by version/hash. Deliveries A/B, guided demo and briefing guidance merged into main; demo uses fictional local data only, real integration validation, production and Supabase Auth/PostgREST/Storage and n8n integrations pending. Separate from Camaleão Infra Portal, which focuses on AI infrastructure diagnosis and operations.
-- [Camaleão Infra Portal](https://github.com/ofelipepeixoto/camaleao-infra-portal) — priority project in development for [Agência Camaleão](https://camaleaoweb3.com.br/); [public repository](https://github.com/ofelipepeixoto/camaleao-infra-portal), public code and [online demonstration](https://infra.camaleaoweb3.com.br/) requiring ChatGPT sign-in.
-- [Capital Web3 Advisor](https://github.com/ofelipepeixoto/capital-web3-advisor) — advisor console and private diagnostic delivery with approval, versioned publication and revocation; authenticated staging in PR #10, with Chromium → real disposable Auth/PostgREST through a Node bridge and fictional data. PR #11 was merged only into that branch, not main. Hosted Edge, a real pilot, public demo and production remain pending.
-- [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas) — experimental readiness assessment for outcome-oriented businesses.
-- [Hermes Leilão RJ](https://github.com/ofelipepeixoto/hermes-leilao-rj) — shadow-mode opportunity triage and dossiers with human review; no bids.
-- [Help Mídias](https://github.com/helpmidias-ia) · [Radar Tech News](https://github.com/radartech-news) · [Radar Disruptivo](https://radardisruptivo.com.br/) · [Agência Camaleão](https://camaleaoweb3.com.br/).
+**Ecosystem and content.** [Radar Tech News](https://github.com/radartech-news), [Help Mídias](https://github.com/helpmidias-ia), [Radar Disruptivo](https://radardisruptivo.com.br/) and [Agência Camaleão](https://camaleaoweb3.com.br/) are ecosystem initiatives; the Camaleão portals above serve distinct journeys within the same agency.
 
 ## Writing and collaboration
 
-I connect editorial analysis and product development at [Radar Disruptivo](https://radardisruptivo.com.br/):
+At [Radar Disruptivo](https://radardisruptivo.com.br/), I connect editorial analysis and product decisions. Read the Portuguese articles on [persistent agents and governance](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) and [MCP, security and governance](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol). The articles provide context; they do not certify the projects.
 
-- [Persistent agents and governance](https://radardisruptivo.com.br/noticias/openai-dots-agentes-persistentes-governanca) — identity, permissions, cost and human responsibility (Portuguese).
-- [MCP, security and governance](https://radardisruptivo.com.br/noticias/mcpa-certificacao-oficial-model-context-protocol) — editorial context for tool contracts and boundaries (Portuguese).
-
-These articles discuss industry context; they do not certify or validate the project implementations.
-
-The `CONTRIBUTING.md` guides suggest small, verifiable tasks:
-
-- [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/3f02c535d255a1e497ccdf4c23f26ac6dcb4eb03/CONTRIBUTING.md): add a fictional two-column PDF, record extraction failures and run `python avaliar_pdf.py --strict`, preserving approval requirements.
-- [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/27be19ee47e018337d4ca9778ffed71845561de1/CONTRIBUTING.md): add fictional CSVs with missing prices or ambiguous property types, document how the import preview flags them and run `npm run test:unit`.
-- [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/a52d2a9b671f0cc952c5fa75eed3689071041679/CONTRIBUTING.md): improve a PT/EN term and a fictional example distinguishing unknown data from unfavorable evidence; run `npm run test:unit`.
-
-Use reproducible fixtures, explicit expected results and a record of limits and checks. For Capital Web3 Advisor, follow its README, backlog and PRs under review. AI tools assist development; product decisions, review and boundaries remain explicit.
+Start with the featured case studies and videos to explore the work. For contributions using fictional examples and reproducible checks, see the guides for [Document Assistant](https://github.com/ofelipepeixoto/assistente-documental-ia/blob/83d489854a53032ecbf6291c0f2a200efb536a78/CONTRIBUTING.md), [Hermes](https://github.com/ofelipepeixoto/hermes-leilao-rj/blob/3cc0a7c1162decdb5118032e57c98635db7615e5/CONTRIBUTING.md) and [Radar OaaS](https://github.com/ofelipepeixoto/radar-oaas/blob/aceb046431fa199222f72fb2091c0b63a992102f/CONTRIBUTING.md).
 
 ## Find me
 
@@ -138,17 +77,17 @@ Use reproducible fixtures, explicit expected results and a record of limits and 
 ## 📈 GitHub statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/stats.svg" alt="Estatísticas públicas do GitHub de Carlos Felipe" width="49%">
-  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/top-langs.svg" alt="Linguagens dos repositórios públicos de Carlos Felipe" width="49%">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/stats.svg" alt="Public GitHub statistics for Carlos Felipe" width="49%">
+  <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/top-langs.svg" alt="Languages in Carlos Felipe's public repositories" width="49%">
 </p>
 
-Updated daily through GitHub Actions. Language distribution represents public code, not proficiency or hours worked; the profile and selected imported/reference projects are excluded from the language card.
+Generation is scheduled daily through GitHub Actions; cards may remain unchanged when the public data has not changed. Language distribution reflects public code, not proficiency or hours worked; the profile and selected imported/reference repositories are excluded from the language card.
 
 ## Contributions
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/github-contribution-grid-snake.svg" alt="Animação de uma cobrinha percorrendo minhas contribuições no GitHub" width="100%">
+    <img src="https://raw.githubusercontent.com/ofelipepeixoto/ofelipepeixoto/output/github-contribution-grid-snake.svg" alt="Animated snake crossing my GitHub contribution grid" width="100%">
   </picture>
 </p>
