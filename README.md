@@ -4,6 +4,7 @@
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><strong>Português</strong> · <a href="README_EN.md">English</a></p>
+<h2 align="center"><strong>Founder & AI Product Builder | Agentes, automação e produtos com evidências rastreáveis e revisão humana | Ecossistema Radar</strong></h2>
 
 Construo produtos digitais e experimentos de IA para organizar evidências, orientar decisões e tornar fluxos de trabalho mais claros para equipes e clientes. Trabalho da definição do problema à implementação e à revisão humana, com atenção ao que foi realmente testado. O portfólio reúne iniciativas em automação, conteúdo, infraestrutura e Web3 em estágios diferentes.
 
