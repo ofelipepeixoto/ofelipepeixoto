@@ -49,6 +49,26 @@ Construo produtos digitais e experimentos de IA para organizar evidências, orie
 
 ## Tecnologias e ferramentas
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/astro/astro-original.svg" alt="Astro" title="Astro" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">&nbsp;
+  <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Google Antigravity" title="Google Antigravity" width="40" height="40"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/APIs-176B45?style=for-the-badge" alt="APIs">
+  <img src="https://img.shields.io/badge/MCP-176B45?style=for-the-badge" alt="MCP">
+</p>
+
 Uso **Python** para motores determinísticos e laboratórios documentais; **TypeScript, Vite e Playwright** no Portal Camaleão; **Astro e React** no Radar OaaS; **PostgreSQL e Supabase** nos testes e na homologação sintética de autorização e persistência. A implementação em revisão do Infra Portal usa **Vinext e D1** ([código](https://github.com/ofelipepeixoto/camaleao-infra-portal/blob/a000d53d7d7495e1c4114e3cac0544d017bb3e85/apps/site/db/index.ts)). **n8n** aparece em contratos e templates inativos nos projetos citados; **MCP** em exemplos locais; no Capital, **OpenAI** permanece com adapter fictício e consumo pago desativado. Essas menções descrevem usos concretos, sem afirmar integrações em produção.
 
 ## Projetos e iniciativas
