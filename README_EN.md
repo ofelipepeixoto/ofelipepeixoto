@@ -4,6 +4,7 @@
 
 <h1 align="center">Carlos Felipe</h1>
 <p align="center"><a href="README.md">Português</a> · <strong>English</strong></p>
+<h2 align="center"><strong>Founder &amp; AI Product Builder | Agents, Automation &amp; Evidence-Based Systems</strong></h2>
 
 I build digital products and AI experiments that help teams and clients organize evidence, make decisions and navigate clearer workflows. My work spans problem definition, implementation and human review, with explicit boundaries around what has actually been tested. This portfolio brings together automation, content, infrastructure and Web3 initiatives at different stages.
 
