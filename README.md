@@ -74,6 +74,8 @@ Uso **Python** para motores determinísticos e laboratórios documentais; **Type
 
 ## Projetos e iniciativas
 
+[Mesa Fiscal](https://github.com/ofelipepeixoto/mesa-fiscal) é um projeto independente que integra três ferramentas públicas da Receita Federal. Oferece simulações educativas de tributos por item e gera, no navegador, o PDF de uma NFS-e nacional já emitida a partir do XML. Não emite nota nem apura o DAS mensal.
+
 [Radar Release Shield](https://github.com/ofelipepeixoto/radar-release-shield) organiza revisão pré-publicação no ChatGPT com instruções, referências e modelos de relatório. A edição pública 0.1.1 inclui fonte, ZIP e verificações de empacotamento; não inclui scanner próprio nem comprova proteção geral contra engenharia reversa.
 
 **Integrações e evidências.** [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) estuda ferramentas governadas com demonstrações locais; [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) desenvolve contratos experimentais de evidência, recibos e proveniência. As integrações externas seguem limitadas ao escopo documentado em cada repositório.
