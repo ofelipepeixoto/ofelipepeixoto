@@ -74,6 +74,8 @@ I use **Python** for deterministic engines and document laboratories; **TypeScri
 
 ## Projects and initiatives
 
+[Mesa Fiscal](https://github.com/ofelipepeixoto/mesa-fiscal) is an independent project that integrates three public tools from Brazil’s Federal Revenue Service. It offers educational, item-level tax simulations and generates a PDF in the browser from the XML of a previously issued national service invoice. It does not issue invoices or calculate the monthly Simples Nacional payment.
+
 [Radar Release Shield](https://github.com/ofelipepeixoto/radar-release-shield) structures pre-release reviews in ChatGPT through instructions, references and report templates. Public edition 0.1.1 includes source, a ZIP package and packaging checks; it does not include its own scanner or establish general protection against reverse engineering.
 
 **Integrations and evidence.** [Radar Integration Hub](https://github.com/ofelipepeixoto/radar-integration-hub) studies governed tools with local demonstrations; [Radar Evidence Kit](https://github.com/ofelipepeixoto/radar-evidence-kit) develops experimental evidence contracts, receipts and provenance. External integrations remain within each repository's documented scope.
